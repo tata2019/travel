@@ -19,5 +19,10 @@ on arrival visa available : NO/Yes
 Embassy contact address: string
 Embassy email link: string onClick, open default email account 
 Embassy Telephone link: string onClick , makes a call
-Button: clear -- will clear data from both INPUT and OUTPUT components 
+Laws and Order: string : penality for drug and/or alchol possessions, smoking bans
+Impot and Export Restrictions: string
+Dress and Behavior :string
+Currency rate: string -- makes direct call to currencyExchange service
+
+Button: Clear -- will clear data from both INPUT and OUTPUT components 
 
