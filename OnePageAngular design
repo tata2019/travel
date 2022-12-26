@@ -1,0 +1,23 @@
+Design
+Description: The app is just to help travellers get destination country visa entry requirements 
+Flat files are used to store all data
+
+INPUT COMPONENT:
+Two input text boxes with auto complete and suggestion features
+1. Passport : string -- citizenship -- auto complete from list of citizenship in a flat file
+2. Current 
+2. Destination (Country): string -- auto complete from list of countries in a flat file
+3. Button: submit: click event pull data from flat file and display on to OUTPUT component underneath
+
+
+
+
+OUTPUT COMPONENT:
+List of info
+Visa types and fee: string and number
+on arrival visa available : NO/Yes 
+Embassy contact address: string
+Embassy email link: string onClick, open default email account 
+Embassy Telephone link: string onClick , makes a call
+Button: clear -- will clear data from both INPUT and OUTPUT components 
+
