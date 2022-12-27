@@ -1,0 +1,36 @@
+[
+  {
+    "id":1,
+    "country": "USA",
+    "visa": 
+    [
+      {
+       "type": "Tourist",
+      "fee" : 100,
+      "duration : "6 months"
+      },
+      {
+       "type": "Student",
+      "fee" : 50,
+      "duration : "1 Year"
+      }
+    ],
+    "currency" : "USD",
+    "law": 
+    [
+      {
+       "offense": "drug",
+      "penality" : "Life in Prison"
+      
+      },
+      {
+       "offense": "Import Export",
+      "penality" : "Minimum 10 years imprisoment"
+      
+      }
+      "consularPhone" : "21433333339",
+      "consularEmail" : "consular@myemail.com"
+    ],
+ 
+  
+  ]
